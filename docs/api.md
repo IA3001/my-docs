@@ -1,9 +1,2 @@
-# API 参考
-
-## GET /api/hello
-
-返回问候语。
-
-响应示例：
-
-    {"message": "hello"}
+# API 参考  
+这里是 API 参考文档示例。  

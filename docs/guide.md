@@ -1,11 +1,4 @@
-# 使用指南
-
-## 安装
-
-    pip install mkdocs mkdocs-material
-
-## 本地预览
-
-    mkdocs serve
-
-浏览器打开 http://127.0.0.1:8000
+# 使用指南  
+1. 编写 Markdown 文档  
+2. 提交代码到 GitHub  
+3. GitHub Actions 自动构建并部署  
