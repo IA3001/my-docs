@@ -1,6 +1,6 @@
 # my-docs
 
-基于 MkDocs Material 的文档站点。
+基于 MkDocs Material 的文档站点
 
 ## 本地开发
 
